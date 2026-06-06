@@ -14,6 +14,8 @@
 
 <br>
 
+---
+
 <div align="center">
   Desenvolvido por NoG0at.
 </div>
