@@ -1,4 +1,4 @@
-<h1 align="center">📜 Certificados</h1>
+<h1 align="center">📜 Certificates</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="500">
